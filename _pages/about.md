@@ -25,14 +25,14 @@ Please feel free to contact me through email: zhaochenxi515@126.com
 
 
 # 📖 Educations
-- *2026.09 - 2030.06 (Expected)*, PhD student, Shanghai Jiao Tong University & Shanghai Academy of AI for Science (SAIS). Advisor: Prof. Weiran Huang
+- *2026.09 - 2030.06 (Expected)*, PhD student, Shanghai Jiao Tong University and Shanghai Innovation Institute (SII). Advisor: Prof. Weiran Huang
 - *2023.09 - 2026.06*, Master student, Nankai University. Advisor: Prof. Jufeng Yang
 <!-- - *2019.09 - 2023.06*, Undergraduate student, China University of Geosciences (Wuhan) -->
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉 One paper is accepted by ECCV 2026.
 - *2025.09*: &nbsp;🎉 Two papers are accepted by CVPR 2026.
-- *2024.09*: &nbsp;🎉 One paper (Spotlight) is accepted by ICML 2025.
+- *2025.05*: &nbsp;🎉 One paper (Spotlight) is accepted by ICML 2025.
 - *2024.05*: &nbsp;🎉 One paper is accepted by NeurIPS 2024.
 
 # 📝 Publications
