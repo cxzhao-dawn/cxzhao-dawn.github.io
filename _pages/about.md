@@ -58,10 +58,10 @@ Please feel free to contact me through email: zhaochenxi515@126.com
   - **ICML 2025 (Spotlight)**
 
 # 🎖 Honors and Awards
-- National First Prize in Mathematical Modeling Competition (Top 0.65%, Team Leader)
+- National First Prize in Mathematical Modeling Competition (Team Leader)
 - Outstanding Graduate of Nankai University
 - Huawei Research Innovation Scholarship
-- Outstanding Graduation Thesis, China University of Geosciences (Top 5%)
+- Outstanding Graduation Thesis, China University of Geosciences
 
 # 💬 Academic Services
 - Reviewer: NeurIPS 2025/2026, ACL 2025, AAAI 2025/2026, TAC 2024/2025/2026, PRCV 2025/2026, ICIG 2025/2026
