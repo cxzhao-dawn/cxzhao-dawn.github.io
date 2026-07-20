@@ -45,6 +45,10 @@ Please feel free to contact me through email: zhaochenxi515@126.com
   - **Chenxi Zhao**, Yan Zhou, Jufeng Yang
   - **CVPR 2026 Findings**
 
+- **To Err like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation**
+  - **Chenxi Zhao**, Jinglei Shi, Liqiang Nie, Jufeng Yang
+  - **NeurIPS 2024**
+
 - **Finding Highlight Images In Your Albums: From Benchmark To MLLM**
   - Rong Qin, Congcong Sun, Yaopeng Dong, Yanbin Sun, Chensen Ding, **Chenxi Zhao**, Biao Wang, Qian Zhang, Eunil Park, Chi Man VONG, Jufeng Yang
   - **ECCV 2026**
@@ -52,10 +56,6 @@ Please feel free to contact me through email: zhaochenxi515@126.com
 - **MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding**
   - Zhicheng Zhang, Wuyou Xia, **Chenxi Zhao**, Zhou Yan, Xiaoqiang Liu, Yongjie Zhu, Wenyu Qin, Pengfei Wan, Di ZHANG, Jufeng Yang
   - **ICML 2025 (Spotlight)**
-
-- **To Err like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation**
-  - **Chenxi Zhao**, Jinglei Shi, Liqiang Nie, Jufeng Yang
-  - **NeurIPS 2024**
 
 # 🎖 Honors and Awards
 - National First Prize in Mathematical Modeling Competition (Top 0.65%, Team Leader)
