@@ -54,7 +54,7 @@ Please feel free to contact me through email: zhaochenxi515@126.com
   - **ECCV 2026**
 
 - **MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding**
-  - Zhicheng Zhang, Wuyou Xia, **Chenxi Zhao**, Zhou Yan, Xiaoqiang Liu, Yongjie Zhu, Wenyu Qin, Pengfei Wan, Di ZHANG, Jufeng Yang
+  - Zhicheng Zhang, Wuyou Xia, **Chenxi Zhao**, Yan Zhou, Xiaoqiang Liu, Yongjie Zhu, Wenyu Qin, Pengfei Wan, Di ZHANG, Jufeng Yang
   - **ICML 2025 (Spotlight)**
 
 # 🎖 Honors and Awards
