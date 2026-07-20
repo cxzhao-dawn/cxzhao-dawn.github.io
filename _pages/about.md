@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student (Class of 2026) in Computer Science at Shanghai Jiao Tong University & Shanghai Academy of AI for Science (SAIS), advised by Prof. Weiran Huang. Currently, I am interning at Alibaba Tongyi Wan Team.
+I am a PhD student (Class of 2026) in Computer Science at Shanghai Jiao Tong University & SII, advised by Prof. Weiran Huang. 
 
 My research interests include Video Generation, Unified Generation & Understanding, and Visual Emotion Analysis.
 
@@ -27,11 +27,11 @@ Please feel free to contact me through email: zhaochenxi515@126.com
 # 📖 Educations
 - *2026.09 - 2030.06 (Expected)*, PhD student, Shanghai Jiao Tong University & Shanghai Academy of AI for Science (SAIS). Advisor: Prof. Weiran Huang
 - *2023.09 - 2026.06*, Master student, Nankai University. Advisor: Prof. Jufeng Yang
-- *2019.09 - 2023.06*, Undergraduate student, China University of Geosciences (Wuhan)
+<!-- - *2019.09 - 2023.06*, Undergraduate student, China University of Geosciences (Wuhan) -->
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉 One paper is accepted by ECCV 2026.
-- *2025.09*: &nbsp;🎉 Two papers are accepted by CVPR 2026 (one to main conference, one to Findings).
+- *2025.09*: &nbsp;🎉 Two papers are accepted by CVPR 2026.
 - *2024.09*: &nbsp;🎉 One paper (Spotlight) is accepted by ICML 2025.
 - *2024.05*: &nbsp;🎉 One paper is accepted by NeurIPS 2024.
 
@@ -59,17 +59,14 @@ Please feel free to contact me through email: zhaochenxi515@126.com
 
 # 🎖 Honors and Awards
 - National First Prize in Mathematical Modeling Competition (Top 0.65%, Team Leader)
-- National Second Prize in National Mathematics Competition (Non-math category)
-- Outstanding Graduate of Nankai University (Top 3%)
-- Gongneng First-Class Scholarship, Nankai University (Top 10%)
+- Outstanding Graduate of Nankai University
 - Huawei Research Innovation Scholarship
-- Academician Scholarship
 - Outstanding Graduation Thesis, China University of Geosciences (Top 5%)
 
 # 💬 Academic Services
-- Reviewer: NeurIPS 2025/2026, ACL 2025/2026, AAAI 2025/2026, TAC 2024/2025/2026, PRCV 2025/2026
+- Reviewer: NeurIPS 2025/2026, ACL 2025, AAAI 2025/2026, TAC 2024/2025/2026, PRCV 2025/2026, ICIG 2025/2026
 
 # 💻 Internships
-- *2026.06 - Present*, Alibaba, Tongyi Wan Team (Video Generation Acceleration)
-- *2025.06 - 2025.12*, Alibaba, Amap ML R&D (Unified Generation & Understanding)
+- *2026.06 - Present*, Alibaba.
+- *2025.06 - 2025.12*, Alibaba, Amap ML (Unified Generation & Understanding)
 - *2024.09 - 2025.06*, Kuaishou, Kling AI (Multimodal Large Models)
