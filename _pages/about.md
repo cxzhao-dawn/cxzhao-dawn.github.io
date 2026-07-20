@@ -31,9 +31,9 @@ Please feel free to contact me through email: zhaochenxi515@126.com
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉 One paper is accepted by ECCV 2026.
-- *2025.09*: &nbsp;🎉 Two papers are accepted by CVPR 2026.
+- *2026.02*: &nbsp;🎉 Two papers are accepted by CVPR 2026.
 - *2025.05*: &nbsp;🎉 One paper (Spotlight) is accepted by ICML 2025.
-- *2024.05*: &nbsp;🎉 One paper is accepted by NeurIPS 2024.
+- *2024.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2024.
 
 # 📝 Publications
 
